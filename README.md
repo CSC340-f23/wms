@@ -11,3 +11,6 @@
 >manage Scrum workflow and assign roles to the designated team members.
 >It is designed to track team projects: backlogs, sprints, and tasks. WMS helps
 >highlight tasks that are underway or upcoming, who they are assigned to, as well as detail progress towards completion.
+
+
+![Use Case Diagram](https://github.com/CSC340-f23/wms/blob/d23db12982d5b4dab9c8f5588cfdee3f3d034a84/WMS%20Use%20Case.PNG)
