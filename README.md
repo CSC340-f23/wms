@@ -2,6 +2,9 @@
 
 ## WMS
 
+## Team Members
+>Al Beback, Minnie Scurt, Pete Tzah
+
 ## Description 
 
 >Workflow Management System (WMS) is a project management tool. It is designed to
